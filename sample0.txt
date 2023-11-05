@@ -1,0 +1,3 @@
+Hello World
+This is a Simple Input
+There are a few Capital Letters here

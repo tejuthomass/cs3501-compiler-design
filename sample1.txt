@@ -1,0 +1,8 @@
+The quick brown Fox jumps over the 12 Lazy Dogs.
+Some symbols: !@#$%^&*()
+Newlines and special characters:
+1. Line 1 - This has One Capital Letter.
+2. Line 2 - And This One Too.
+3. Line 3 - None Here!
+4. Line 4 - More $ymbols here?
+5. Line 5 - No, just punctuation...
