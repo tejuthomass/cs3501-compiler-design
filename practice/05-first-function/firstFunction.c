@@ -15,7 +15,6 @@ bool isNonTerminal(char ch);
 bool isTerminal(char ch);
 void findFirst(char nonTerminal);
 
-
 ProductionRule rules[MAX_RULES];
 int numRules = 0;
 
